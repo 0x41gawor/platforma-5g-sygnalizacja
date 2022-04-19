@@ -78,7 +78,7 @@ Następnie przejście do przygotowania środowiska dla platformy (postawienie dw
 
 ### 1.2.4 Instalacja i konfiguracja UERANSIM
 
-> Nie wiem jak tutaj postępować ze stopniem zagłębienie się w temat ani jak się traktuje takie sprawy w pracach dyplomowych. Chodzi mi o to, że taka dokumentacja instalacji może bardzo szybko stracić aktualność.
+> Nie wiem jak tutaj postępować ze stopniem zagłębienia się w temat ani jak się traktuje takie sprawy w pracach dyplomowych. Chodzi mi o to, że taka dokumentacja instalacji może bardzo szybko stracić aktualność.
 >
 > Z konfiguracją łatwiej, bo można zaznaczyć jakie elementu należy skonfigurować, gdyż to raczej się nie zmieni. Sam sposób ustawienia odpowiednich elementów, można pozostawić czytelnikowi.
 
