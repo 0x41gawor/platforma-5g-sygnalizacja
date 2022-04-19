@@ -26,7 +26,7 @@ Spis treści:
 
 ## 1.1 Wstęp teoretyczny - Architektura sieci mobilnych
 
-Celem tej sekcji by było przedstawienie co ta przygotowana platforma w rzeczywistości odzwierciedla. Omówienie infrastruktury 5G, poczynając od przedstawienia ogólnej struktury sieci komórkowej. Stopień zagłębienia się w temat wystarczający, aby zrozumieć co przedstawiają komponenty platformy. Tak, żeby czytelnik wiedział czym jest UERANSIM, czym Open5GS i tak dalej...
+Celem tej sekcji by było przedstawienie co ta przygotowana platforma w rzeczywistości odzwierciedla. Omówienie infrastruktury 4G, poczynając od przedstawienia ogólnej struktury sieci komórkowej. Stopień zagłębienia się w temat wystarczający, aby zrozumieć co przedstawiają komponenty platformy. Tak, żeby czytelnik wiedział czym jest UERANSIM, czym Open5GS i tak dalej...
 
 ### 1.1.1 Po co powstały sieci komórkowe
 
